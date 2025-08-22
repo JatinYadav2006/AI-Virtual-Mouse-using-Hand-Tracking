@@ -42,6 +42,7 @@ Use your hand gestures to control the cursor:
 
 📌 Applications
 
+
 Hands-free control for accessibility.
 
 Touchless interfaces (useful in public spaces).
